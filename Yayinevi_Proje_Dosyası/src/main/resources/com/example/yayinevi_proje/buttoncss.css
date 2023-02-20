@@ -1,0 +1,16 @@
+.yayinButon{
+ -fx-padding: 10;
+ -fx-background-color:  #AEBFA3;
+
+ -fx-text-fill: #FDF9F9;
+}
+.yayinGriButon{
+    -fx-background-color:#D4D4D4;
+    -fx-border-color:#D4D4D4;
+    -fx-text-fill: #FDF9F9;
+    -fx-font-family: Canva Sans;
+}
+.backgroundRabia{
+    -fx-background-image:url("finalbackground.png");
+    -fx-background-size: cover;
+}
